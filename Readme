@@ -1,0 +1,64 @@
+Sure! Here’s a simple, friendly README for your Fun Calculator Python file:
+
+# 🎉 Fun Calculator 🎉
+
+Welcome to **Fun Calculator!** This Python script lets you add, subtract, multiply, and divide two numbers with a dash of fun and style.
+
+## 🚀 Features
+
+- Accepts two numbers as input (including decimals!)
+- Performs:
+  - Addition ➕
+  - Subtraction ➖
+  - Multiplication ✖️
+  - Division ➗ *(assuming you play nice and don’t divide by zero!)*
+- Outputs the results in a friendly, easy-to-read format!
+
+## 🛠️ How to Use
+
+1. **Run the script**  
+   Open your terminal and execute:  
+   ```
+   python fun_calculator.py
+   ```
+2. **Enter your first number**  
+   Type any number (integers or decimals are welcome!) and press Enter.
+3. **Enter your second number**  
+   Type another number and press Enter.
+4. **See the magic happen!**  
+   Your results for sum, difference, product, and quotient appear instantly.
+
+## 📋 Example
+
+```
+Enter the first number: 6.5
+Enter the second number: 2
+Results of your two numbers:
+Sum: 8.5
+Difference: 4.5
+Product: 13.0
+Quotient: 3.25
+```
+
+## ⚠️ Note
+
+- Division by zero isn’t handled in this version. Don’t try it, or you’ll cause a math explosion! 💥
+
+## 🧑‍💻 How does it work?
+
+It simply takes your inputs, turns them into floats (for decimal support), then does some basic math and prints out the results.
+
+## 🎈 Have fun crunching numbers!
+
+Feel free to copy or modify this README as needed!
+
+[1] https://builtin.com/software-engineering-perspectives/python-calculator
+[2] https://www.sololearn.com/en/Discuss/2088675/a-simple-calculator
+[3] https://gist.github.com/complxalgorithm/ee685852a2a37e88ebc8d64d2d126d91
+[4] https://parottasalna.com/2024/08/11/create-a-basic-calculator-that-can-add-subtract-multiply-and-divide/
+[5] https://www.youtube.com/watch?v=yUrYouDQZL8
+[6] https://support.templafy.com/hc/en-us/articles/15849622277021-How-to-use-functions-Add-Subtract-Multiply-and-Divide-to-calculate-with-numbers
+[7] https://www.programiz.com/python-programming/examples/calculator
+[8] https://www.youtube.com/watch?v=k56qPoYXMNA
+[9] https://python-forum.io/thread-4082.html
+[10] https://www.youtube.com/watch?v=Xhts2yPU6ys
